@@ -29,4 +29,6 @@ python3 -P -s main.py
 
 Practice results (local kit trials, trial-0): the entry hits the 2112 Elo
 cap, W6 D0 L0, 939 spare plies (mates in 35/48/31/40/47/60 plies), wall 12s.
-The v1 entry (engine only, no book) scored 741 spare plies.
+The v1 entry (engine only, no book) scored 741 spare plies. Book lines
+verified against the level-26 kit's env server (trial-0 gauntlet unchanged
+from level 24).
